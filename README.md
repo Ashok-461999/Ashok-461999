@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Ashok 👋
 
-<!--
-**Ashok-461999/Ashok-461999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer specializing in Java and AWS Serverless architecture.
 
-Here are some ideas to get you started:
+ What I Do
+- Design scalable ERP backend systems
+- Build REST APIs using Java 17
+- Develop event-driven workflows using AWS Lambda
+- Integrate government compliance APIs (e-Invoice, e-Way Bill)
+- Develop production-grade mobile backend integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+- Java 17
+- Node.js, Express.js
+- Python
+- AWS Lambda, API Gateway, DynamoDB
+- REST APIs
+- Event-driven Architecture
+- System Design
+
+Current Focus
+- Distributed systems
+- Backend scalability
+- System design mastery
