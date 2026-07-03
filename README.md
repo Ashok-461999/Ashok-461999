@@ -72,10 +72,10 @@ e-Invoice, e-Way Bill APIs integrated into the ERP flow. Not an afterthought. Bu
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashok-461999&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-461999&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=8b949e" width="49%" />
-</p>
+</p> -->
 
 <br>
 
