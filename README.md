@@ -16,8 +16,6 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ashok-461999&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" width="42%" />
-
 ⚡ **9x faster in production**
 Work-order processing was 18 seconds. Profiled the hot path, found redundant DynamoDB reads. Per-request in-memory caching. Down to 2 seconds. No new infra, no architecture overhaul.
 
